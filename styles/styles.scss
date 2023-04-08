@@ -185,6 +185,10 @@ section {
         justify-content: center;
         padding-right: 18rem;
     }
+
+        .btn{
+            width: 170px;
+        }
         .name {
             font-size: 3rem;
             span { color: var(--color-secondary); }
@@ -570,7 +574,6 @@ section {
  text-decoration:none;
  padding:5px 10px;
  border-radius:3px;
- width: 170px;
 }
 
 .btn-green {

@@ -192,6 +192,9 @@ section {
   justify-content: center;
   padding-right: 18rem;
 }
+.header-content .btn {
+  width: 170px;
+}
 .header-content .name {
   font-size: 3rem;
 }
@@ -524,7 +527,6 @@ section {
   text-decoration: none;
   padding: 5px 10px;
   border-radius: 3px;
-  width: 170px;
 }
 
 .btn-green {
